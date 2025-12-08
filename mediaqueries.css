@@ -1,0 +1,162 @@
+/* Base mobile-first styles are in Tailwind; these add enhancements */
+
+/* Medium devices (≥768px) */
+@media (min-width: 768px) {
+  .md\:w-1\/2 {
+    width: 50%;
+  }
+  .md\:w-1\/3 {
+    width: 33.333333%;
+  }
+  .md\:flex {
+    display: flex;
+  }
+  .md\:items-center {
+    align-items: center;
+  }
+  .md\:gap-6 {
+    gap: 1.5rem;
+  }
+  .md\:mt-0 {
+    margin-top: 0;
+  }
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* Large devices (≥1024px) */
+@media (min-width: 1024px) {
+  .max-w-5xl {
+    max-width: 64rem;
+  }
+  .max-w-6xl {
+    max-width: 72rem;
+  }
+}
+
+/* Small screens (≤640px) */
+@media (max-width: 640px) {
+  nav {
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  nav ul {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+  }
+
+  .nav-left h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:w-1\/2,
+  .md\:w-1\/3 {
+    width: 100%;
+  }
+
+  .md\:flex {
+    display: block;
+  }
+
+  .grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  .text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+
+  .p-4 {
+    padding: 1rem;
+  }
+
+  .py-16 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+  .px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .shadow {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Fix for form section */
+  form {
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .form-section {
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+
+  /* Footer/copyright fix */
+  footer {
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.875rem;
+  }
+
+  footer p {
+    margin: 0;
+    line-height: 1.5;
+  }
+}
+
+/* Responsive iframe */
+iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+/* Profile Image */
+img.rounded-full {
+  max-width: 200px;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* Certificate buttons stack on small screens */
+@media (max-width: 768px) {
+  #certificates .flex {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+}
+
+/* Social icons layout fix */
+@media (max-width: 480px) {
+  .social-icons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .social-icons img {
+    margin-bottom: 10px;
+  }
+}
