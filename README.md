@@ -3,15 +3,12 @@
 Welcome to my portfolio!  
 This showcases my techical skills,services, projects, certificates and hands-on experience in web development and software engineering.
 
-
 ##  About Me
 
 -  B.Tech Student
 -  Full Stack Web Developer
 -  Passionate about building real-world applications
 -  Interested in Web Technologies, Java, and MERN Stack
-
----
 
 ## Technical Skills
 
@@ -36,11 +33,9 @@ This showcases my techical skills,services, projects, certificates and hands-on 
 - VS Code  
 - Postman  
 
+## Featured Projects
 
-
-## 📂 Featured Projects
-
-### 💍 Bridal Glam – Wedding Beauty & Planning Platform
+###  Bridal Glam – Wedding Beauty & Planning Platform
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
 
 - Web-based platform for brides to plan wedding beauty services
@@ -52,7 +47,6 @@ This showcases my techical skills,services, projects, certificates and hands-on 
 🔗 *Project Repository:*  
 https://github.com/lavanya-jalla/mini-project
 
-
 ### Real-time Collaboration Tool with MERN Technology
 **Tech Stack:** MERN 
 
@@ -62,21 +56,28 @@ https://github.com/lavanya-jalla/mini-project
 - Secure user authentication
 - RESTful API integration
 - Scalable backend design
+- 
+ 🔗 *Project Repository:*  
+https://github.com/lavanya-jalla/CapstoneNextgenProject
+
 
 ### Netflix Clone
--Techologies: ->HTML ->CSS ->Javascript
+-Techologies: 
+->HTML
+->CSS
+->Javascript
+Features: 
+=> Clean UI 
+=> Replicate of Nextflix
 
-Features: => Clean UI => Replicate of Nextflix
-
-
+🔗 *Project Repository:*  
+https://github.com/lavanya-jalla/-Netflixclone
 
 ##  Contact Me
 
 - 📧 Email: lavanya123jalla@gmail.com
 - 💼 GitHub: https://github.com/lavanya-jalla
 - 🌐 Portfolio Website: https://69362a19198084d2bf9fcb14--resilient-smakager-e0b8aa.netlify.app/
-
----
 
 ## 📄 License
 
