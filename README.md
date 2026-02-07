@@ -59,7 +59,7 @@ https://github.com/lavanya-jalla/mini-project
 - Secure user authentication
 - RESTful API integration
 - Scalable backend design
-- 
+  
  🔗 *Project Repository:*  
 https://github.com/lavanya-jalla/CapstoneNextgenProject
 
@@ -76,12 +76,31 @@ Features:
 🔗 *Project Repository:*  
 https://github.com/lavanya-jalla/-Netflixclone
 
+### Chat Application using XAMPP Control Panel       
+Technologies:
+-> HTML
+-> CSS
+-> PHP
+-> MYSQL
+Features:
+Developed a real-time chat application using PHP & MySQL based on client–server architecture.
+• Implemented secure user authentication (Signup, Login, Logout) with session management.
+• Enabled multimedia messaging including text, emojis, images, audio, video, PDF, and Word files.
+• Designed a responsive and modern UI inspired by WhatsApp UI using HTML5, CSS3, Flexbox, and animations.
+• Integrated user presence features such as online/offline status and last-seen tracking
+
+🔗 *Project Repository:*  
+https://github.com/lavanya-jalla/portfolio.git
+
+
+
+
 ##  Contact Me
 
 - 📧 Email: lavanya123jalla@gmail.com
 - 💼 GitHub: https://github.com/lavanya-jalla
 - 🌐 Portfolio Website: https://69362a19198084d2bf9fcb14--resilient-smakager-e0b8aa.netlify.app/
 
-## 📄 License
+## License
 
 This portfolio is for educational and professional showcase purposes.
