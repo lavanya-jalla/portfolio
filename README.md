@@ -1,12 +1,13 @@
 # My Portfolio
 
-Welcome to my portfolio!  
+Welcome to Lavanya Jalla portfolio!  
 This showcases my techical skills,services, projects, certificates and hands-on experience in web development and software engineering.
 
 ##  About Me
 
 -  B.Tech Student
 -  Full Stack Web Developer
+-  Passionate Java Developer
 -  Passionate about building real-world applications
 -  Interested in Web Technologies, Java, and MERN Stack
 
@@ -14,7 +15,6 @@ This showcases my techical skills,services, projects, certificates and hands-on 
 
 ### Programming Languages
 - Java  
-- JavaScript  
 - Python  
 
 ### Web Technologies
@@ -31,7 +31,10 @@ This showcases my techical skills,services, projects, certificates and hands-on 
 ### Tools & Platforms
 - Git & GitHub  
 - VS Code  
-- Postman  
+- Postman
+- SpringBoot
+- Jdbc
+- Maven
 
 ## Featured Projects
 
