@@ -97,10 +97,10 @@ https://github.com/lavanya-jalla/portfolio.git
 
 ##  Contact Me
 
-- 📧 Email: lavanya123jalla@gmail.com
-- 💼 GitHub: https://github.com/lavanya-jalla
-- 🌐 Portfolio Website: https://69362a19198084d2bf9fcb14--resilient-smakager-e0b8aa.netlify.app/
+-  Email: lavanya123jalla@gmail.com
+-  GitHub: https://github.com/lavanya-jalla
+-  Portfolio Website: https://lavanyajallaportfolio.netlify.app/
 
 ## License
 
-This portfolio is for educational and professional showcase purposes.
+This portfolio is my educational and professional showcase purpose.
